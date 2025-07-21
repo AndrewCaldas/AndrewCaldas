@@ -1,5 +1,4 @@
 ## E aí, tudo joia? Me chamo Andrew 👋🏼:
-🛜 Atualmente, estou trabalhando em meu [portfólio](https://andrewcaldas.netlify.app/portfolio) <br>
 👨🏼‍🎓 Bacharel em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste <br>
 👨🏼‍💻 Atuando como desenvolvedor frontend desde 2019 <br>
 💻 Atualmente, trabalho principalmente com as seguintes stacks: React, JavaScript, TypeScript, Next.js, Tailwind, etc. <br>
@@ -7,7 +6,6 @@
 
 ### English 🇺🇸  <br>
 ## Hey, how's it going? I'm Andrew 👋🏼:
-🛜 Currently working on my [webpage](https://andrewcaldas.netlify.app/portfolio) <br>
 👨🏼‍🎓 Bachelor's degree in Systems Analysis and Development from Fatec Zona Leste <br>
 👨🏼‍💻 Working as a frontend developer since 2019 <br>
 💻 I currently work mainly with the following tech stacks: React, JavaScript, TypeScript, Next.js, Tailwind, etc. <br>
